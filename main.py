@@ -2,7 +2,7 @@ import os
 import tempfile
 import streamlit as st
 from streamlit_chat import message
-from helper2_with_all import ChatPDF
+from helper import ChatPDF
 
 st.set_page_config(page_title="CSV/PDF_GPT")
 
